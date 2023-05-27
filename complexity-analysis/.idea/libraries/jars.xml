@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="jars">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../omnisia-recursia-rrt-mml-2019/jars/omnisia-rhythm-only-202104051836.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../omnisia-recursia-rrt-mml-2019/jars/omnisia202102221214.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../omnisia-recursia-rrt-mml-2019/jars/omnisia202102221155.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../omnisia-recursia-rrt-mml-2019/jars/omnisia-tec-heuristics.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../omnisia-recursia-rrt-mml-2019/jars/omnisia-rhythm-only-202104051601.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../omnisia-recursia-rrt-mml-2019/jars/omnisia202101261131.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../omnisia-recursia-rrt-mml-2019/jars/omnisia202102221823.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../omnisia-recursia-rrt-mml-2019/jars/omnisia-rhythm-only-202104051512.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
